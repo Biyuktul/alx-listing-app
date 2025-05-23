@@ -1,1 +1,2 @@
-ALX Listing App for airbnb clone project
+# Alx Listing App
+creating an Airbnb clone listing page
